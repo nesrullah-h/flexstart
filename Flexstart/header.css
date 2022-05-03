@@ -1,0 +1,29 @@
+#header .navbar .container-fluid {
+  padding: 5px 110px;
+}
+
+#header .navbar .container-fluid .d-flex .btn {
+  margin-left: 20px;
+  padding: 8px 25px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #195ed4;
+}
+
+#header .navbar .container-fluid .navbar-brand {
+  font-size: 30px;
+  font-weight: 700;
+  color: #012970;
+  font-family: "Nunito", sans-serif;
+}
+
+#header .navbar .container-fluid .navbar-brand img {
+  padding-bottom: 8px;
+}
+
+#header .navbar .nav-item .nav-link {
+  font-weight: 600;
+  margin-left: 15px;
+  color: #013289;
+}
+/*# sourceMappingURL=header.css.map */

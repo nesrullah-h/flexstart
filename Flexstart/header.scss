@@ -1,0 +1,34 @@
+#header{
+    .navbar{
+        .container-fluid{
+            padding: 5px 110px ;
+            .d-flex{
+                .btn{
+                    margin-left: 20px;
+                    padding: 8px 25px;
+                    font-weight:600 ;
+                    color: #fff;
+                    background-color: #195ed4;
+                }
+            }
+            
+            .navbar-brand{
+                font-size: 30px;
+                font-weight: 700;
+                color: #012970;
+                font-family: "Nunito", sans-serif;
+                img{
+                    padding-bottom: 8px;
+                }
+            }
+        }
+        .nav-item{
+            .nav-link{
+                font-weight: 600;
+            margin-left: 15px;
+            color: #013289;
+        }
+        }
+        
+    }
+}
